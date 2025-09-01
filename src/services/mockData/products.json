@@ -28,8 +28,8 @@
     "category": "Pulses",
     "price": 189,
     "images": [
-      "https://images.unsplash.com/photo-1610022163017-7c8e5ab7e35b?w=500",
-      "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?w=500"
+"https://images.unsplash.com/photo-1583849176903-9c6ebb1f7e7b?w=500",
+      "https://images.unsplash.com/photo-1608797409077-de44c8e55e3b?w=500"
     ],
     "description": "Premium quality organic chickpeas, rich in protein and fiber. Perfect for traditional Indian cuisine.",
     "nutritionalInfo": {
@@ -51,8 +51,8 @@
     "category": "Dairy",
     "price": 899,
     "images": [
-      "https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=500",
-      "https://images.unsplash.com/photo-1563379091819-abbbb370dbd1?w=500"
+"https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=500",
+      "https://images.unsplash.com/photo-1571115764595-644a1f56a55c?w=500"
     ],
     "description": "Traditional hand-churned A2 ghee from grass-fed cows. Rich in vitamins and authentic taste.",
     "nutritionalInfo": {
@@ -96,8 +96,8 @@
     "name": "Organic Rajma",
     "category": "Pulses",
     "price": 149,
-    "images": [
-      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=500",
+"images": [
+      "https://images.unsplash.com/photo-1506368083636-6defb67639a7?w=500",
       "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?w=500"
     ],
     "description": "Premium red kidney beans, perfect for traditional rajma curry. Rich in protein and minerals.",
@@ -120,8 +120,8 @@
     "category": "Spices",
     "price": 99,
     "images": [
-      "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=500",
-      "https://images.unsplash.com/photo-1606502255993-e85edda30d29?w=500"
+"https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=500",
+      "https://images.unsplash.com/photo-1598346762291-aee88549193f?w=500"
     ],
     "description": "Fresh ground turmeric powder from organic turmeric roots. Rich in curcumin with anti-inflammatory properties.",
     "nutritionalInfo": {
