@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "productId": 1,
+    "rating": 5,
+    "comment": "Excellent quality basmati rice! The aroma is incredible and grains are perfectly long.",
+    "customerName": "Priya Sharma",
+    "date": "2024-01-15"
+  },
+  {
+    "Id": 2,
+    "productId": 1,
+    "rating": 5,
+    "comment": "Best rice I've ever bought online. Will definitely order again!",
+    "customerName": "Rajesh Kumar",
+    "date": "2024-01-10"
+  },
+  {
+    "Id": 3,
+    "productId": 2,
+    "rating": 4,
+    "comment": "Good quality chickpeas, though packaging could be better.",
+    "customerName": "Anita Singh",
+    "date": "2024-01-12"
+  },
+  {
+    "Id": 4,
+    "productId": 3,
+    "rating": 5,
+    "comment": "Pure and authentic ghee. The taste reminds me of my grandmother's homemade ghee.",
+    "customerName": "Suresh Patel",
+    "date": "2024-01-08"
+  },
+  {
+    "Id": 5,
+    "productId": 5,
+    "rating": 5,
+    "comment": "Perfect rajma for curry! Cooks evenly and tastes amazing.",
+    "customerName": "Meera Gupta",
+    "date": "2024-01-14"
+  }
+]

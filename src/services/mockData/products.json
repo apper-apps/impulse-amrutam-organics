@@ -1,0 +1,232 @@
+[
+  {
+    "Id": 1,
+    "name": "Premium Basmati Rice",
+    "category": "Rice",
+    "price": 299,
+    "images": [
+      "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=500",
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=500"
+    ],
+    "description": "Aged premium basmati rice with exceptional aroma and long grains. Sourced directly from the foothills of Himalayas.",
+    "nutritionalInfo": {
+      "calories": "345 per 100g",
+      "protein": "7.5g",
+      "carbs": "78g",
+      "fiber": "0.4g"
+    },
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 156,
+    "weight": "1kg",
+    "organic": true,
+    "featured": true
+  },
+  {
+    "Id": 2,
+    "name": "Organic Kabuli Chana",
+    "category": "Pulses",
+    "price": 189,
+    "images": [
+      "https://images.unsplash.com/photo-1610022163017-7c8e5ab7e35b?w=500",
+      "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?w=500"
+    ],
+    "description": "Premium quality organic chickpeas, rich in protein and fiber. Perfect for traditional Indian cuisine.",
+    "nutritionalInfo": {
+      "calories": "364 per 100g",
+      "protein": "19.3g",
+      "carbs": "61g",
+      "fiber": "17.4g"
+    },
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 89,
+    "weight": "500g",
+    "organic": true,
+    "featured": true
+  },
+  {
+    "Id": 3,
+    "name": "Pure A2 Desi Ghee",
+    "category": "Dairy",
+    "price": 899,
+    "images": [
+      "https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=500",
+      "https://images.unsplash.com/photo-1563379091819-abbbb370dbd1?w=500"
+    ],
+    "description": "Traditional hand-churned A2 ghee from grass-fed cows. Rich in vitamins and authentic taste.",
+    "nutritionalInfo": {
+      "calories": "900 per 100g",
+      "saturatedFat": "62g",
+      "vitaminA": "684mcg",
+      "vitaminE": "2.8mg"
+    },
+    "inStock": true,
+    "rating": 4.9,
+    "reviews": 234,
+    "weight": "500ml",
+    "organic": true,
+    "featured": true
+  },
+  {
+    "Id": 4,
+    "name": "Fresh Organic Garlic",
+    "category": "Vegetables",
+    "price": 129,
+    "images": [
+      "https://images.unsplash.com/photo-1553978297-833d09932d44?w=500",
+      "https://images.unsplash.com/photo-1607103030281-bbdc9b6c4346?w=500"
+    ],
+    "description": "Farm-fresh organic garlic bulbs with strong aroma and flavor. Locally sourced from certified organic farms.",
+    "nutritionalInfo": {
+      "calories": "149 per 100g",
+      "protein": "6.4g",
+      "carbs": "33g",
+      "vitaminC": "31.2mg"
+    },
+    "inStock": true,
+    "rating": 4.5,
+    "reviews": 67,
+    "weight": "250g",
+    "organic": true,
+    "featured": false
+  },
+  {
+    "Id": 5,
+    "name": "Organic Rajma",
+    "category": "Pulses",
+    "price": 149,
+    "images": [
+      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=500",
+      "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?w=500"
+    ],
+    "description": "Premium red kidney beans, perfect for traditional rajma curry. Rich in protein and minerals.",
+    "nutritionalInfo": {
+      "calories": "333 per 100g",
+      "protein": "23.6g",
+      "carbs": "60g",
+      "iron": "8.2mg"
+    },
+    "inStock": true,
+    "rating": 4.7,
+    "reviews": 112,
+    "weight": "500g",
+    "organic": true,
+    "featured": true
+  },
+  {
+    "Id": 6,
+    "name": "Pure Haldi Powder",
+    "category": "Spices",
+    "price": 99,
+    "images": [
+      "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=500",
+      "https://images.unsplash.com/photo-1606502255993-e85edda30d29?w=500"
+    ],
+    "description": "Fresh ground turmeric powder from organic turmeric roots. Rich in curcumin with anti-inflammatory properties.",
+    "nutritionalInfo": {
+      "calories": "354 per 100g",
+      "curcumin": "3-5%",
+      "iron": "41.4mg",
+      "fiber": "21g"
+    },
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 178,
+    "weight": "200g",
+    "organic": true,
+    "featured": true
+  },
+  {
+    "Id": 7,
+    "name": "Traditional Gober Uple",
+    "category": "Eco-Friendly",
+    "price": 199,
+    "images": [
+      "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=500",
+      "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=500"
+    ],
+    "description": "Eco-friendly cow dung cakes made from pure cow dung. Perfect for traditional cooking and religious ceremonies.",
+    "nutritionalInfo": {
+      "burnTime": "45-60 minutes",
+      "smokeless": "Low smoke",
+      "natural": "100% organic",
+      "usage": "Cooking fuel"
+    },
+    "inStock": true,
+    "rating": 4.3,
+    "reviews": 45,
+    "weight": "10 pieces",
+    "organic": true,
+    "featured": false
+  },
+  {
+    "Id": 8,
+    "name": "Brown Basmati Rice",
+    "category": "Rice",
+    "price": 259,
+    "images": [
+      "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=500",
+      "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=500"
+    ],
+    "description": "Nutritious brown basmati rice with natural fiber and nutrients intact. Healthier alternative to white rice.",
+    "nutritionalInfo": {
+      "calories": "370 per 100g",
+      "protein": "8g",
+      "fiber": "4g",
+      "magnesium": "143mg"
+    },
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 92,
+    "weight": "1kg",
+    "organic": true,
+    "featured": false
+  },
+  {
+    "Id": 9,
+    "name": "Organic Moong Dal",
+    "category": "Pulses",
+    "price": 169,
+    "images": [
+      "https://images.unsplash.com/photo-1599599813351-6d11f540d123?w=500",
+      "https://images.unsplash.com/photo-1610022163017-7c8e5ab7e35b?w=500"
+    ],
+    "description": "Split green gram, easy to digest and rich in protein. Perfect for everyday cooking and baby food.",
+    "nutritionalInfo": {
+      "calories": "347 per 100g",
+      "protein": "24g",
+      "carbs": "59g",
+      "folate": "625mcg"
+    },
+    "inStock": true,
+    "rating": 4.7,
+    "reviews": 134,
+    "weight": "500g",
+    "organic": true,
+    "featured": false
+  },
+  {
+    "Id": 10,
+    "name": "Rock Salt",
+    "category": "Spices",
+    "price": 79,
+    "images": [
+      "https://images.unsplash.com/photo-1506806732259-39c2d0268443?w=500",
+      "https://images.unsplash.com/photo-1597824500788-e7bb99d2f453?w=500"
+    ],
+    "description": "Pure rock salt with natural minerals. Unprocessed and free from chemicals and additives.",
+    "nutritionalInfo": {
+      "sodium": "38.7g per 100g",
+      "minerals": "84 trace minerals",
+      "processing": "Unrefined",
+      "additives": "None"
+    },
+    "inStock": true,
+    "rating": 4.4,
+    "reviews": 56,
+    "weight": "500g",
+    "organic": true,
+    "featured": false
+  }
+]
