@@ -22,7 +22,7 @@
     "organic": true,
     "featured": true
   },
-  {
+{
     "Id": 2,
     "name": "Organic Kabuli Chana",
     "category": "Pulses",
@@ -31,7 +31,7 @@
 "https://images.unsplash.com/photo-1583849176903-9c6ebb1f7e7b?w=500",
       "https://images.unsplash.com/photo-1608797409077-de44c8e55e3b?w=500"
     ],
-    "description": "Premium quality organic chickpeas, rich in protein and fiber. Perfect for traditional Indian cuisine.",
+    "description": "Premium quality organic chickpeas in 1kg plastic packaging, rich in protein and fiber. Perfect for traditional Indian cuisine.",
     "nutritionalInfo": {
       "calories": "364 per 100g",
       "protein": "19.3g",
@@ -41,11 +41,11 @@
     "inStock": true,
     "rating": 4.6,
     "reviews": 89,
-    "weight": "500g",
+    "weight": "1kg Pack",
     "organic": true,
     "featured": true
   },
-  {
+{
     "Id": 3,
     "name": "Pure A2 Desi Ghee",
     "category": "Dairy",
@@ -54,7 +54,7 @@
 "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=500",
       "https://images.unsplash.com/photo-1571115764595-644a1f56a55c?w=500"
     ],
-    "description": "Traditional hand-churned A2 ghee from grass-fed cows. Rich in vitamins and authentic taste.",
+    "description": "Traditional hand-churned A2 ghee from grass-fed cows in 1-liter glass bottle with authentic jute cloth cap cover. Rich in vitamins and authentic taste.",
     "nutritionalInfo": {
       "calories": "900 per 100g",
       "saturatedFat": "62g",
@@ -64,7 +64,7 @@
     "inStock": true,
     "rating": 4.9,
     "reviews": 234,
-    "weight": "500ml",
+    "weight": "1L Glass Bottle",
     "organic": true,
     "featured": true
   },
@@ -91,7 +91,7 @@
     "organic": true,
     "featured": false
   },
-  {
+{
     "Id": 5,
     "name": "Organic Rajma",
     "category": "Pulses",
@@ -100,7 +100,7 @@
       "https://images.unsplash.com/photo-1506368083636-6defb67639a7?w=500",
       "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?w=500"
     ],
-    "description": "Premium red kidney beans, perfect for traditional rajma curry. Rich in protein and minerals.",
+    "description": "Premium red kidney beans in 1kg plastic packaging, perfect for traditional rajma curry. Rich in protein and minerals.",
     "nutritionalInfo": {
       "calories": "333 per 100g",
       "protein": "23.6g",
@@ -110,7 +110,7 @@
     "inStock": true,
     "rating": 4.7,
     "reviews": 112,
-    "weight": "500g",
+    "weight": "1kg Pack",
     "organic": true,
     "featured": true
   },
@@ -228,5 +228,28 @@
     "weight": "500g",
     "organic": true,
     "featured": false
+},
+  {
+    "Id": 11,
+    "name": "Raw Organic Honey",
+    "category": "Sweeteners",
+    "price": 449,
+    "images": [
+      "https://images.unsplash.com/photo-1587049016823-c90b2dcacd86?w=500",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=500"
+    ],
+    "description": "Pure raw organic honey collected from wildflower meadows. Unprocessed and unfiltered to retain all natural enzymes and nutrients.",
+    "nutritionalInfo": {
+      "calories": "304 per 100g",
+      "carbs": "82.4g",
+      "sugars": "82.1g",
+      "antioxidants": "Natural flavonoids"
+    },
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 167,
+    "weight": "500ml Glass Jar",
+    "organic": true,
+    "featured": true
   }
 ]
