@@ -20,10 +20,15 @@ export default function ProductCard({ product }) {
     <Link to={`/product/${product.Id}`}>
       <Card className="group hover:shadow-lg transition-all duration-300 hover:-translate-y-1 overflow-hidden">
         <div className="relative">
-          <img
-            src={product.images[0]}
-            alt={product.name}
+<img
+            src={product.images?.[0] || '/placeholder-image.jpg'}
+            alt={product.name || 'Product image'}
             className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
+            onError={(e) => {
+              e.target.src = '/placeholder-image.jpg';
+              e.target.onerror = null;
+            }}
+            loading="lazy"
           />
           {product.organic && (
             <Badge 

@@ -78,10 +78,15 @@ export default function ProductDetail() {
           {/* Product Images */}
           <div className="space-y-4">
             <div className="aspect-square overflow-hidden rounded-xl bg-surface">
-              <img
-                src={product.images[selectedImage]}
-                alt={product.name}
+<img
+                src={product.images?.[selectedImage] || '/placeholder-image.jpg'}
+                alt={product.name || 'Product image'}
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                onError={(e) => {
+                  e.target.src = '/placeholder-image.jpg';
+                  e.target.onerror = null;
+                }}
+                loading="lazy"
               />
             </div>
             
@@ -96,9 +101,14 @@ export default function ProductDetail() {
                     }`}
                   >
                     <img
-                      src={image}
-                      alt={`${product.name} ${index + 1}`}
+src={image || '/placeholder-image.jpg'}
+                      alt={`${product.name || 'Product'} ${index + 1}`}
                       className="w-full h-full object-cover"
+                      onError={(e) => {
+                        e.target.src = '/placeholder-image.jpg';
+                        e.target.onerror = null;
+                      }}
+                      loading="lazy"
                     />
                   </button>
                 ))}
