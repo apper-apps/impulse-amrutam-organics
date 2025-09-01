@@ -4,7 +4,7 @@ import ApperIcon from "@/components/ApperIcon"
 
 export default function HeroSection() {
   return (
-    <section className="relative bg-gradient-to-br from-primary via-primary/95 to-secondary min-h-[500px] flex items-center">
+<section className="relative bg-gradient-to-br from-white via-surface/80 to-primary/20 min-h-[500px] flex items-center">
       <div className="absolute inset-0 bg-black/10" />
       
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
@@ -17,14 +17,14 @@ export default function HeroSection() {
                 100% Organic & Natural
               </div>
               
-              <h1 className="font-display text-4xl lg:text-6xl font-bold leading-tight">
-                Farm Fresh
-                <span className="block text-accent">Organic Foods</span>
+<h1 className="font-display text-4xl lg:text-6xl font-bold leading-tight text-gray-900">
+                Premium Organic
+                <span className="block text-primary">Products</span>
               </h1>
               
-              <p className="text-lg lg:text-xl text-green-100 leading-relaxed max-w-lg">
-                Premium quality organic products directly from sustainable farms. 
-                Supporting traditional farming practices and healthy living.
+<p className="text-lg lg:text-xl text-gray-700 leading-relaxed max-w-lg">
+                Discover our finest selection of pure A2 ghee, natural honey, organic kabuli chana, and premium rajma. 
+                Authentic flavors from traditional sources for your healthy lifestyle.
               </p>
             </div>
 
@@ -72,9 +72,9 @@ export default function HeroSection() {
           {/* Hero Image */}
           <div className="relative">
             <div className="relative">
-              <img
-                src="https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&h=700&fit=crop"
-                alt="Fresh organic vegetables and grains"
+<img
+                src="https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=600&h=700&fit=crop"
+                alt="Premium organic ghee, honey, kabuli chana and rajma products"
                 className="rounded-2xl shadow-2xl transform rotate-2 hover:rotate-0 transition-transform duration-500"
               />
               
