@@ -73,8 +73,8 @@ export default function HeroSection() {
           <div className="relative">
             <div className="relative">
 <img
-                src="https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=600&h=700&fit=crop"
-                alt="Premium organic ghee, honey, kabuli chana and rajma products"
+                src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&h=700&fit=crop&q=80"
+                alt="Amrutam Organics hero products - Premium organic ghee in glass bottles, pure honey, kabuli chana, and rajma from sustainable farms"
                 className="rounded-2xl shadow-2xl transform rotate-2 hover:rotate-0 transition-transform duration-500"
               />
               
